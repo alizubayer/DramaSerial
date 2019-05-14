@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Drama Serial</string>
+
+    <string-array name="country_name">
+
+        <item>Country Name</item>
+        <item>South Korea</item>
+        <item>India</item>
+        <item>American</item>
+        <item>China</item>
+        <item>Japan</item>
+        <item>Thai</item>
+        <item>Bangladesh</item>
+
+    </string-array>
+
+</resources>
